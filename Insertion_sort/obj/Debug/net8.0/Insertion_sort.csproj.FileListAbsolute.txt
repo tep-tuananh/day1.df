@@ -1,0 +1,14 @@
+D:\C#\test\Insertion_sort\bin\Debug\net8.0\Insertion_sort.exe
+D:\C#\test\Insertion_sort\bin\Debug\net8.0\Insertion_sort.deps.json
+D:\C#\test\Insertion_sort\bin\Debug\net8.0\Insertion_sort.runtimeconfig.json
+D:\C#\test\Insertion_sort\bin\Debug\net8.0\Insertion_sort.dll
+D:\C#\test\Insertion_sort\bin\Debug\net8.0\Insertion_sort.pdb
+D:\C#\test\Insertion_sort\obj\Debug\net8.0\Insertion_sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\test\Insertion_sort\obj\Debug\net8.0\Insertion_sort.AssemblyInfoInputs.cache
+D:\C#\test\Insertion_sort\obj\Debug\net8.0\Insertion_sort.AssemblyInfo.cs
+D:\C#\test\Insertion_sort\obj\Debug\net8.0\Insertion_sort.csproj.CoreCompileInputs.cache
+D:\C#\test\Insertion_sort\obj\Debug\net8.0\Insertion_sort.dll
+D:\C#\test\Insertion_sort\obj\Debug\net8.0\refint\Insertion_sort.dll
+D:\C#\test\Insertion_sort\obj\Debug\net8.0\Insertion_sort.pdb
+D:\C#\test\Insertion_sort\obj\Debug\net8.0\Insertion_sort.genruntimeconfig.cache
+D:\C#\test\Insertion_sort\obj\Debug\net8.0\ref\Insertion_sort.dll

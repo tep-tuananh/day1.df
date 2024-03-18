@@ -1,0 +1,14 @@
+D:\C#\test\selSort\obj\Debug\net8.0\selSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\test\selSort\obj\Debug\net8.0\selSort.AssemblyInfoInputs.cache
+D:\C#\test\selSort\obj\Debug\net8.0\selSort.AssemblyInfo.cs
+D:\C#\test\selSort\obj\Debug\net8.0\selSort.csproj.CoreCompileInputs.cache
+D:\C#\test\selSort\bin\Debug\net8.0\selSort.exe
+D:\C#\test\selSort\bin\Debug\net8.0\selSort.deps.json
+D:\C#\test\selSort\bin\Debug\net8.0\selSort.runtimeconfig.json
+D:\C#\test\selSort\bin\Debug\net8.0\selSort.dll
+D:\C#\test\selSort\bin\Debug\net8.0\selSort.pdb
+D:\C#\test\selSort\obj\Debug\net8.0\selSort.dll
+D:\C#\test\selSort\obj\Debug\net8.0\refint\selSort.dll
+D:\C#\test\selSort\obj\Debug\net8.0\selSort.pdb
+D:\C#\test\selSort\obj\Debug\net8.0\selSort.genruntimeconfig.cache
+D:\C#\test\selSort\obj\Debug\net8.0\ref\selSort.dll

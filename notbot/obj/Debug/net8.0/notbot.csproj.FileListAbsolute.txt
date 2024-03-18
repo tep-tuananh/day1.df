@@ -1,0 +1,14 @@
+D:\C#\test\notbot\bin\Debug\net8.0\notbot.exe
+D:\C#\test\notbot\bin\Debug\net8.0\notbot.deps.json
+D:\C#\test\notbot\bin\Debug\net8.0\notbot.runtimeconfig.json
+D:\C#\test\notbot\bin\Debug\net8.0\notbot.dll
+D:\C#\test\notbot\bin\Debug\net8.0\notbot.pdb
+D:\C#\test\notbot\obj\Debug\net8.0\notbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\test\notbot\obj\Debug\net8.0\notbot.AssemblyInfoInputs.cache
+D:\C#\test\notbot\obj\Debug\net8.0\notbot.AssemblyInfo.cs
+D:\C#\test\notbot\obj\Debug\net8.0\notbot.csproj.CoreCompileInputs.cache
+D:\C#\test\notbot\obj\Debug\net8.0\notbot.dll
+D:\C#\test\notbot\obj\Debug\net8.0\refint\notbot.dll
+D:\C#\test\notbot\obj\Debug\net8.0\notbot.pdb
+D:\C#\test\notbot\obj\Debug\net8.0\notbot.genruntimeconfig.cache
+D:\C#\test\notbot\obj\Debug\net8.0\ref\notbot.dll

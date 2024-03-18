@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84D7F897-2926-41C8-A92C-669E5D978FCB}|Day1\\Day1.csproj|d:\\c#\\test\\day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D7F897-2926-41C8-A92C-669E5D978FCB}|Day1\\Day1.csproj|solutionrelative:day1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D7F897-2926-41C8-A92C-669E5D978FCB}|Day1\\Day1.csproj|d:\\c#\\test\\day1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D7F897-2926-41C8-A92C-669E5D978FCB}|Day1\\Day1.csproj|solutionrelative:day1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84D7F897-2926-41C8-A92C-669E5D978FCB}|Day1\\Day1.csproj|d:\\c#\\test\\day1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84D7F897-2926-41C8-A92C-669E5D978FCB}|Day1\\Day1.csproj|solutionrelative:day1\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90A8656E-781C-47CF-A6D5-4466510B0A3B}|Insertion_sort\\Insertion_sort.csproj|d:\\c#\\test\\insertion_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90A8656E-781C-47CF-A6D5-4466510B0A3B}|Insertion_sort\\Insertion_sort.csproj|solutionrelative:insertion_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\test\\Insertion_sort\\Program.cs",
+              "RelativeDocumentMoniker": "Insertion_sort\\Program.cs",
+              "ToolTip": "D:\\C#\\test\\Insertion_sort\\Program.cs",
+              "RelativeToolTip": "Insertion_sort\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T09:25:22.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\C#\\test\\Day1\\Category.cs",
+              "RelativeDocumentMoniker": "Day1\\Category.cs",
+              "ToolTip": "D:\\C#\\test\\Day1\\Category.cs",
+              "RelativeToolTip": "Day1\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:52:12.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\C#\\test\\Day1\\Product.cs",
+              "RelativeDocumentMoniker": "Day1\\Product.cs",
+              "ToolTip": "D:\\C#\\test\\Day1\\Product.cs",
+              "RelativeToolTip": "Day1\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:50:45.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\test\\Day1\\Program.cs",
+              "RelativeDocumentMoniker": "Day1\\Program.cs",
+              "ToolTip": "D:\\C#\\test\\Day1\\Program.cs",
+              "RelativeToolTip": "Day1\\Program.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAAAFAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T07:50:20.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
