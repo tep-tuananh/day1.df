@@ -8,10 +8,15 @@ namespace Day1
 {
     internal class Product
     {
-        private string name { get; set; }
-        private int price { get; set; }
-        private int quantity { get; set; }
-        private int categoryId { get; set; }
+        private string name;
+        private int price;
+        private int quantity;
+        private int categoryId;
+
+        public string Name { get => name; set => name = value; }
+        public int Price { get => price; set => price = value; }
+        public int Quantity { get => quantity; set => quantity = value; }
+        public int CategoryId { get => categoryId; set => categoryId = value; }
 
         public Product (string name , int price , int quantity, int categoryId)
         {
@@ -38,15 +43,19 @@ namespace Day1
         {
             return this.categoryId;
         }
-        public void getAll()
+        public void getAll(List<Product> products,int i)
+        {
+            Console.WriteLine("Tên sản phẩm: " + products[i].getName()  + " Giá sản phẩm: "+ products[i].getPrice());
+            Console.WriteLine("Số lượng sản phẩm: " + products[i].getQuantity() + " Mã danh mục: " + products[i].getCategoryId());
+        }
+        public void getProduct()
         {
             Console.WriteLine("Tên sản phẩm: " + name + " Giá sản phẩm: " + price);
-            Console.WriteLine("Số lượng sản phẩm: " + quantity + " Mã danh mục: " + categoryId);
+            Console.WriteLine("Số lượng sản phẩm: " + quantity + " Mã danh mục: " +categoryId);
+
         }
 
-        public static implicit operator List<object>(Product v)
-        {
-            throw new NotImplementedException();
-        }
     }
+
+
 }
