@@ -155,6 +155,7 @@ class Program
 
                 if (productList[i].getName().Equals(name))
                 {
+                    checkOut = true;
                     product.getAll(productList, i);
                 }
 
