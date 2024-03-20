@@ -397,14 +397,15 @@ class Program
             } while (checkOut);
 
             // đệ qui tìm số tháng
-            int month(int a, int b)
+            int month(int  a, int  b)
             {
-                int sum = 0;
+                double bank=0;
                 int count = 0;
-                if (2 * a <= sum)
-                {
-                    sum = sum + (a * b / 100);
-                    count++;
+                if (a == 0 || b ==0 ) return 0;
+                while(bank <= 2 * a) {
+
+                    bank = bank + (a * b / 100);
+                        count ++;
                 }
                 return count;
             }
